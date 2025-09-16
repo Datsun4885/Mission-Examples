@@ -1,7 +1,7 @@
 # Mission-Examples
 
 ## Overview
-A few examples of missions from my passion project. These include cutscenes, objective based, and WIP enemy AI.
+A few examples of missions from my passion project. These include cutscenes, objective based, and WIP enemy AI. All of these mission use effective server-client and client-server communication in order to keep gameplay and visuals smooth.
 please note that I am not the best animator
 
 ## Examples
